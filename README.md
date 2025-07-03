@@ -31,6 +31,7 @@ Built full-stack projects using **Ruby on Rails**, **JavaScript**, and modern we
 ## 📫 Let’s Connect!
 - [LinkedIn](www.linkedin.com/in/tsering-lama-2406a335a)
 - [GitHub](https://github.com/turibhai)
+- tseriing.boksha@gmail.com
 
 Thanks for stopping by! 🙏
 
