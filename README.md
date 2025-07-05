@@ -19,13 +19,6 @@ Built full-stack projects using **Ruby on Rails**, **JavaScript**, and modern we
 ![Stimulus](https://img.shields.io/badge/Stimulus-0f0f0f?logo=stimulus&logoColor=white)
 
 
-## 🧠 What I'm Working On
-- A furniture rental platform and a pet care app  
-- Exploring frontend best practices and improving UI/UX design skills  
-- Preparing for a junior frontend developer role
-
----
-
 ## ✨ Background
 - 🧑‍🏫 3 years as a bilingual driving instructor in Tokyo  
 - 💻 Graduate of Le Wagon Tokyo (2025)  
